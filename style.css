@@ -1,0 +1,151 @@
+h1{
+    
+    color : blue;
+    text-align: center;
+    }
+   
+    
+.information{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    background-color:#dddddd;
+    padding:15px;
+    font-size: 18px;
+    font-family:sans-serif;
+    font-weight : 400;
+}
+
+h3{
+    background-color:#cef7fa;
+}
+
+.itf{
+    font-size: 17px;
+    background-color:#cef7fa;
+}
+
+.p1{
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+.p2{
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+.video{
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+.video1{
+    background-color:#925454;
+    text-align: center;
+    margin-left: 20%;
+    padding:15px;
+}
+
+.video2{
+    background-color:#a2b461;
+    text-align: center;
+    padding:15px;
+}
+
+.video3{
+    background-color:#949ce6;
+    text-align: center;
+    margin-right: 20%;
+    padding:15px;
+}
+
+.photo1{
+    background-color:#d2face;
+    text-align: center;
+    margin-left: 20%;
+    padding:15px;
+}
+  
+.photo2{
+    background-color:#fdaaaa;
+    text-align: center;
+    padding:15px;
+}
+
+.photo3{
+    background-color:#e9f89c;
+    text-align: center;
+    margin-right: 20%;
+    padding:15px;
+}
+
+.photo4{
+    background-color:#d1cefa;
+    text-align: center;
+    margin-left: 20%;
+    padding:15px;
+}
+
+.photo5{
+    background-color:#fad9b3;
+    text-align: center;
+    padding:15px;
+}
+
+.photo6{
+    background-color:#eccefa;
+    text-align: center;
+    margin-right: 20%;
+    padding:15px;
+}
+
+.video1:hover img{
+    opacity: 0.5;
+}
+
+.video2:hover img{
+    opacity: 0.5;
+}
+
+.video3:hover img{
+    opacity: 0.5;
+}
+
+.photo1:hover img{
+    opacity: 0.5;
+}
+
+.photo2:hover img{
+    opacity: 0.5;
+}
+
+.photo3:hover img{
+    opacity: 0.5;
+}
+
+.photo4:hover img{
+    opacity: 0.5;
+}
+
+.photo5:hover img{
+    opacity: 0.5;
+}
+
+.photo6:hover img{
+    opacity: 0.5;
+}
+
+.title:hover h1{
+    transform:scale(1.2);
+ }
+a:link{
+    color:black;
+}
+
+a:visited{
+    color:red;
+}
